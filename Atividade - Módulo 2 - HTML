@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>O Marco Zero do Recife</title>
+</head>
+<body>
+    <header>
+        <h1>O Marco Zero do Recife</h1>
+        <img src="3320019645_8833a58e51_b.jpg" alt="Marco Zero do Recife" height="150px">
+    </header>
+    <section>
+<p>Índice do Conteúdo</p>
+    <ul>
+        <li><a href="#1">Onde fica</a></li>
+        <li><a href="#2">História</a></li>
+        <li><a href="#3">Fotos</a></li>
+    </ul>
+    <br>
+</section>
+    <section>
+        <h1>O Marco Zero</h1>
+        <p id="1"><h3>Onde Fica?</h3>
+            O Marco Zero compreende a região da Praça Barão do Rio Branco, que está situada no município de Recife, no estado de Pernambuco. A atração fica próxima do bairro do Recife Antigo, e está a menos de 10 km de Olinda.
+        </p>
+        <br>
+        <p id="2"><h3>História</h3>
+            O espaço surgiu junto à construção da cidade e também é responsável por preservar grande parte da história local. Pela região, é possível apreciar construções da época do Brasil Colonial, assim como estátuas, parques e monumentos históricos.
+
+            Na mesma praça também está situada a rosa-dos-ventos do Marco Zero. A atração foi anexada à praça na década de 1930, pelo artista pernambucano Cícero Dias. Uma curiosidade é que o marco reúne todas as distâncias oficiais de Pernambuco, dando origem ao termo ‘km 0’ do estado.
+        </p>
+        <br>
+        <p id="3"><h3>Fotos</h3>
+        <h4>Marco Zero à Noite</h4>
+        <img src="Marco_zero_noite.jpeg" alt="Marco zero à noite" height="400px">
+        <br>
+        <h4>Marco Zero durante o dia</h4>
+        <img src="marco_zero_dia.webp" alt="Marco Zero durante o dia" height="400px">
+        <br>
+        <h4>Marco Durante visto do alto</h4>
+        <img src="Marco_zero_visto_do_alto.jpg" alt="Marco Zero visto do alto" height="400px">
+        <br>
+        </p>
+    </section>
+    <section>
+        <footer>
+            <address>Felipe José Ferreira, autor deste site. Atividade 1 do 2º Módulo de HTML/CSS.</address>
+        </footer>
+    </section>
+</body>
+</html>
