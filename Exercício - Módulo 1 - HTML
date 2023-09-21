@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercício - Módulo 1 - HTML</title>
+</head>
+<body>
+    <h1>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rerum numquam, harum molestiae ullam consequatur porro fuga. Necessitatibus aliquid molestiae ullam perspiciatis, dolores dolorem, sapiente vel voluptatem quasi fugiat neque fuga?</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates consectetur fugit numquam. Ipsam, numquam eligendi quidem impedit cumque itaque consequatur excepturi reprehenderit. Minus deserunt dolores reiciendis deleniti, ullam aliquid neque.</p>
+
+    <h2>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quia maxime libero fugit veniam corrupti aliquid rerum, ab quaerat, minima inventore at sed atque magnam fugiat, nobis culpa tenetur. At, maiores?</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo odit asperiores esse architecto, ex veritatis ea debitis nulla doloremque eum distinctio molestias? Amet consequuntur numquam natus doloremque, eveniet beatae nostrum?</p>
+    
+    <P><STRONG>LISTAS</STRONG></P>
+
+    <p>São Frutas:</p>
+    <ul>
+        <li>Banana</li>
+        <li>Abacaxi</li>
+    </ul>
+
+    São modelos de Carro:
+    <ol>
+        <li>Onix</li>
+        <li>Duster</li>
+    </ol>
+
+    <p><STRONG>IMAGEM</STRONG></p>
+
+    <img src="49263721403_e4360885fe_b.jpg" alt="Imagem de flores" height="100">
+
+    <P><STRONG>FORMULÁRIO</STRONG></P>
+
+    <form method="get" action="form.html">
+        Eu sou um caixa de texto
+        <input type="password" name="txt-nome-" /><br />
+
+        eu sou seleção multipla
+        <input type="checkbox" name="coisas-que-gosto" value="Dinheiro"> Dinheiro
+        <input type="checkbox" name="coisas-que-gosto" value="Jogar"> Jogar
+        <input type="checkbox" name="coisas-que-gosto" value="Assistir séries"> Assistir séries <br />
+
+        Eu sou seleção única
+        <input type="radio" name="cor" value="vermelho"> vermelho
+        <input type="radio" name="cor" value="azul"> azul
+        <input type="radio" name="cor" value="verde"> verde <br />
+        <input type="submit" value="enviar-dados">
+    
+    </form>
+</body>
+</html>
